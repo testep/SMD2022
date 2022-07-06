@@ -1,6 +1,5 @@
 Software Modeling and Design Projects 2022
 <ul>
-BINF Software Engineering Repository
 
 <li>Group 1 - https://github.com/aldosula/swe202-project
 <li>Group 2 - https://github.com/acenga20/ADE2you
